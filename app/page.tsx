@@ -378,7 +378,7 @@ function Process() {
 /* --------------------------------------------------------------- OUTCOMES */
 function Outcomes() {
   const metrics = [
-    { v: "∞", l: "orders per solve", s: "from the legacy 199 cap" },
+    { v: "15%", l: "saving on time & energy", s: "across field operations" },
     { v: "30%", l: "faster dispatch", s: "across live customer runs" },
     { v: "0", l: "licensing lock-in", s: "on our open-source stacks" },
   ];
@@ -523,13 +523,13 @@ function CTABand() {
           concrete idea.
         </p>
         <a
-          href="mailto:hello@kentek.com.au"
+          href="mailto:sales@kentspatialservices.com.au?subject=KenteK%20discovery%20call"
           className="clip-shard inline-block bg-kyellow text-ink px-10 py-4 font-heading uppercase tracking-widest text-sm font-bold hover:shadow-[0_0_40px_rgba(252,238,10,0.5)] transition-shadow"
         >
           Book the call →
         </a>
         <div className="mt-10 font-mono text-xs text-kmuted tracking-widest">
-          HELLO@KENTEK.COM.AU &nbsp;//&nbsp; BRISBANE AU &nbsp;//&nbsp;{" "}
+          INFO@KENTSPATIALSERVICES.COM.AU &nbsp;//&nbsp; BRISBANE AU &nbsp;//&nbsp;{" "}
           <span className="text-kmagenta">● ACCEPTING CLIENTS</span>
         </div>
       </div>
@@ -552,8 +552,8 @@ function Footer() {
             className="h-12 w-auto opacity-90"
           />
           <div className="font-mono text-xs text-kmuted tracking-widest text-center">
-            KENTEK // BRISBANE AU // HELLO@KENTEK.COM.AU // LAT −27.47 LON
-            153.02
+            KENTEK // BRISBANE AU // INFO@KENTSPATIALSERVICES.COM.AU // LAT
+            −27.47 LON 153.02
           </div>
           <div className="font-mono text-xs text-kmuted tracking-widest">
             © 2026 KENTEK PTY LTD
