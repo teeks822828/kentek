@@ -280,7 +280,7 @@ function FeaturedSolutions() {
             tag="SOLUTION / 01"
             title="Route Command"
             body="Multi-tenant route optimisation for field service teams. Unlimited orders, open-source engines, mobile-ready field app. Built to replace legacy VRP systems without the licensing tax."
-            href="https://route-command-site.vercel.app/"
+            href="https://route-command.com/"
           />
           <SolutionCard
             tag="SOLUTION / 02"
