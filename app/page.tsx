@@ -286,7 +286,7 @@ function FeaturedSolutions() {
             tag="SOLUTION / 02"
             title="Darkserver"
             body="An ArcGIS Enterprise-compatible API — drop-in integration with the Esri ecosystem, without the Esri infrastructure footprint. Lean, standards-based, deployable anywhere."
-            href="https://darkservergis.com/arcgis/home/"
+            href="https://darkservergis.com/"
           />
         </div>
       </div>
